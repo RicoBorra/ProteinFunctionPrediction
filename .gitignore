@@ -1,2 +1,3 @@
 *.obo
+*.json
 **/__pycache__
