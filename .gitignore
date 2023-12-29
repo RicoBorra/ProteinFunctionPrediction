@@ -1,3 +1,4 @@
 *.obo
 *.json
+*.tsv
 **/__pycache__
