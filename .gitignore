@@ -3,3 +3,4 @@
 *.tsv
 **/__pycache__
 esm_multilabel
+esm_manual
